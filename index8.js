@@ -30,5 +30,5 @@ if(num%2==0 && num%3==0){
 }
     */
 
-console.log("hello");
+// console.log("hello");
 
