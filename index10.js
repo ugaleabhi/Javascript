@@ -11,4 +11,4 @@ let n=prompt("Enter the value n:")
 do{
     console.log(i)
      i++;
- } while(i<n)
+ } while(i<n)   
