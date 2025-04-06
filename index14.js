@@ -14,4 +14,4 @@ console.log(fr[0]);
 console.log(fr[1]);
 console.log(fr[2]);
 console.log(fr[3]);
-console.log(fr);
+console.log(fr);index15.js
